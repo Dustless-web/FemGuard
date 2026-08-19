@@ -1,0 +1,4 @@
+<resources>
+    <!-- Change "Guardian" to your new name below -->
+    <string name="app_name">FemGuard</string>
+</resources>

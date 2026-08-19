@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#2D3436</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Backgrounds -->
+    <color name="bg_main">#F5F7FA</color>
+    <!-- Old name mapped to new color to prevent crash -->
+    <color name="bg_light">#F5F7FA</color>
+    <color name="card_bg">#FFFFFF</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#2D3436</color>
+    <color name="text_secondary">#636E72</color>
+
+    <!-- Brand Identity -->
+    <color name="brand_primary">#5C6BC0</color>
+    <color name="brand_dark">#3949AB</color>
+    <color name="brand_secondary">#7986CB</color>
+
+    <!-- Mapping old button colors to new harmonious theme -->
+    <color name="action_blue">#5C6BC0</color>
+    <color name="action_green">#7986CB</color>
+
+    <!-- Safety / Action Colors -->
+    <color name="safety_red">#FF6B6B</color>
+    <color name="safety_red_dark">#EE5253</color>
+    <color name="safety_glow_center">#FF9F43</color>
+    <color name="safety_stroke">#FFCCCC</color>
+
+    <!-- UI Elements -->
+    <color name="card_shadow">#E0E0E0</color>
+</resources>

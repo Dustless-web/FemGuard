@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <gradient
+        android:startColor="@color/safety_red"
+        android:centerColor="@color/safety_glow_center"
+        android:endColor="@color/safety_red_dark"
+        android:gradientRadius="350dp"
+        android:type="radial" />
+
+    <!-- A soft, semi-transparent stroke to give it a 3D glass effect -->
+    <stroke
+        android:width="4dp"
+        android:color="#40FFFFFF" />
+
+    <size
+        android:width="200dp"
+        android:height="200dp"/>
+</shape>
